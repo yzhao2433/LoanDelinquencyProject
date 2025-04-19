@@ -1,0 +1,12 @@
+title: " Loan Delinquencies in Analysis "
+author: "Business Analysis (yz2433, xh393,izd3"
+subtitle: |
+    Understanding the roles of credit, inflation, and interest rates on loan delinquency
+    
+    Client:  Federal Student Aid
+format:
+    typst:
+        toc: true
+        toc-depth: 2
+execute:
+    cache: true
